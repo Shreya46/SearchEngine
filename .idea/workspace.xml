@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c033c9f-99a1-4bd8-8c39-189c68cf0fd1" name="Default" comment="Size based splitter." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="parallelMerge" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectId" id="1c91B8iZwmHKtr05Gv9mmFGXdTk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data/input" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OnlineSearch">
+    <configuration name="OnlineSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnlineSearch" />
+      <module name="search-engine" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search-engine" type="Application" factoryName="Application">
+      <envs>
+        <env name="-Xmx" value="4096m" />
+        <env name="-Xms" value="4096m" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="search-engine" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="search-engine" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Search-engine" />
+      <item itemvalue="Application.OnlineSearch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlineSearch" />
+        <item itemvalue="Application.OnlineSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c033c9f-99a1-4bd8-8c39-189c68cf0fd1" name="Default" comment="" />
+      <created>1583834493494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583834493494</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Empty Java Project, first commit.">
+      <created>1583834996017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583834996017</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Test] file read through streams.">
+      <created>1583846420508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583846420509</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[Test] file read through streams.">
+      <created>1583846593282</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583846593282</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[Test] file read through streams.">
+      <created>1583846640196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583846640196</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First flow of Sax parser.">
+      <created>1584311219555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584311219555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial stage: parallel processing of lines in each page. &#10;1.Add Stemmer, 2.save filePos in page too. &#10;3.LineParser: work in progress.">
+      <created>1585398340273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585398340273</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Better Line parser, still need to handle edge cases.">
+      <created>1585404828063</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585404828063</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add ToDo">
+      <created>1585405242757</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585405242757</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add ToDo">
+      <created>1585405549039</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585405549039</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create public enum Tags">
+      <created>1585405866554</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585405866554</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Bugfix for ThreadPoolExecutor Exception : new threadpool for each page.">
+      <created>1585429300093</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585429300093</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add Vocabulary, getting wordId instead of word itself.">
+      <created>1585633236757</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585633236757</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add singleton class to save page with their file pointers.&#10;Made functions package-private.">
+      <created>1587242239526</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587242239526</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1. saving pgLevelInvertedIndex (started).&#10;2. Id bug saving inverted index in concurrent map.">
+      <created>1587245502360</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587245502360</updated>
+    </task>
+    <task id="LOCAL-00015" summary="debug inverted index creation.">
+      <created>1587304146423</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587304146423</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Phase 1 completed">
+      <created>1587304804574</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587304804574</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Completed Phase 1, 21054 msec for mini Wiki file.">
+      <created>1587310272229</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1587310272229</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Start Phase 2">
+      <created>1587357237909</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1587357237909</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Change Key to Long from String">
+      <created>1588365035506</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1588365035506</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merging done. Modify File save, Add invertedIndex classes.">
+      <created>1589285132755</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1589285132755</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add completion time.">
+      <created>1589285451628</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1589285451628</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Phase 3 complete.">
+      <created>1589288809455</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1589288809455</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Started offline part.">
+      <created>1589291373340</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1589291373340</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Parallel merge branched out.">
+      <created>1589641279611</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1589641279611</updated>
+    </task>
+    <task id="LOCAL-00025" summary="[Online] Load Vocab">
+      <created>1589671017781</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1589671017781</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add todo">
+      <created>1589671241768</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1589671241768</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Todo : solve bug with parallel approach">
+      <created>1589674729198</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1589674729198</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Size based splitter.">
+      <created>1589720831535</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1589720831535</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Read and create Inverted Index.">
+      <created>1589749762356</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1589749762356</updated>
+    </task>
+    <task id="LOCAL-00030" summary="perform Set operation AND for Pgs of search query">
+      <created>1589825315272</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1589825315272</updated>
+    </task>
+    <task id="LOCAL-00031" summary="create different function">
+      <created>1589832359674</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1589832359674</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Save title in bookmarks">
+      <created>1589833341313</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1589833341313</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Print first 5 titles.">
+      <created>1589835144566</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1589835144566</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add OutputElement for simplification, get total no of Pages.">
+      <created>1589884489139</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1589884489139</updated>
+    </task>
+    <task id="LOCAL-00035" summary="calc idf">
+      <created>1589886515324</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1589886515324</updated>
+    </task>
+    <task id="LOCAL-00036" summary="in Test.">
+      <created>1589888657760</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1589888657760</updated>
+    </task>
+    <task id="LOCAL-00037" summary="complete run 1.">
+      <created>1589890486199</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1589890486199</updated>
+    </task>
+    <task id="LOCAL-00038" summary="File read on user selection.">
+      <created>1589910606665</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1589910606665</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="debug inverted index creation." />
+    <MESSAGE value="Phase 1 completed" />
+    <MESSAGE value="Completed Phase 1, 21054 msec for mini Wiki file." />
+    <MESSAGE value="Start Phase 2" />
+    <MESSAGE value="Change Key to Long from String" />
+    <MESSAGE value="Merging done. Modify File save, Add invertedIndex classes." />
+    <MESSAGE value="Add completion time." />
+    <MESSAGE value="Phase 3 complete." />
+    <MESSAGE value="Started offline part." />
+    <MESSAGE value="Parallel merge branched out." />
+    <MESSAGE value="[Online] Load Vocab" />
+    <MESSAGE value="add todo" />
+    <MESSAGE value="Todo : solve bug with parallel approach" />
+    <MESSAGE value="Size based splitter." />
+    <MESSAGE value="Read and create Inverted Index." />
+    <MESSAGE value="perform Set operation AND for Pgs of search query" />
+    <MESSAGE value="create different function" />
+    <MESSAGE value="Save title in bookmarks" />
+    <MESSAGE value="Print first 5 titles." />
+    <MESSAGE value="Add OutputElement for simplification" />
+    <MESSAGE value="Add OutputElement for simplification, get total no of Pages." />
+    <MESSAGE value="calc idf" />
+    <MESSAGE value="in Test." />
+    <MESSAGE value="complete run 1." />
+    <MESSAGE value="File read on user selection." />
+    <option name="LAST_COMMIT_MESSAGE" value="File read on user selection." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1253" height="560" key="GridCell.Tab.0.bottom" timestamp="1590477663703">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="560" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1590477663703" />
+    <state width="1253" height="560" key="GridCell.Tab.0.center" timestamp="1590477663703">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="560" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1590477663703" />
+    <state width="1253" height="560" key="GridCell.Tab.0.left" timestamp="1590477663702">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="560" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1590477663702" />
+    <state width="1253" height="560" key="GridCell.Tab.0.right" timestamp="1590477663703">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="560" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1590477663703" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1590473915139">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1590473915139" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Splitter.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Splitter.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Splitter.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KWayMerger.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KWayMerger.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KWayMerger.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KWayMerger.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>Math.log ( numerator/ (1+count))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(int) Math.log ( numerator/ (1+count))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>invertedIndexStr != null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>currentSet</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wordId = 132403L</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wordId = 132403</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wordId == id</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Constants.integrated_dir + String.valueOf (index)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mergeK(fileNames, fileReaders, String.valueOf(i / k) + &quot;.txt&quot;, iter)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>wordId == 132403</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wordId ==</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wordId==925</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wordId_fileReaderId.size()==2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.pageNo == 6</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pgNo</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>word.compareTo(&quot;1&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>threadPoolService</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fileList.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>invertedIndex.poll()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>invertedIndex.isEmpty()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fileReaders.get(i).readLine()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>readNextLine.get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fileReaders.get(0).</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fileReaders.get(0).read()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fileReaders.get(0).read(String s)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>search-engine</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
